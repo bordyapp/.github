@@ -1,7 +1,7 @@
 [![Bordy frame - Building open source Trello with steroids.](/assets/bordy%20-%20frame.png)](https://bordy.io)
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-BordyApp-blue?logo=LinkedIn)](https://www.linkedin.com/company/bordyapp/?viewAsMember=true)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-BordyApp-purple?logo=Discord&logoColor=FFFFFF)](https://discord.com/invite/xgCecaaEsc)
+[![Static Badge](https://img.shields.io/badge/Discord-BordyApp-purple?logo=Discord&logoColor=FFFFFF)](https://discord.com/invite/xgCecaaEsc)
 [![Static Badge](https://img.shields.io/badge/Web-BordyApp-black?logo=Safari&logoColor=FFFFFF)](https://www.bordy.io)
 
 ## We're changing the landscape
