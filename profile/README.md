@@ -17,8 +17,8 @@ That's why we started Bordy.
 We are just starting to build our community. There are several ways to contribute:
 
 * Join our Discord:  [Join](https://discord.gg/xgCecaaEsc) If you have questions, want to contribute, or just want to say hello, feel free to chat with us!
-- GitHub issues: for bugs and feature requests.
-- GitHub Pull Requests (PRs): for fixes or new features already discussed
+* GitHub issues: for bugs and feature requests.
+* GitHub Pull Requests (PRs): for fixes or new features already discussed
 
 ## 👀 Getting started
 
