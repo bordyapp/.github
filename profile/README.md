@@ -30,4 +30,4 @@ We are just starting to build our community. There are several ways to contribut
 
 ## Disclaimer
 1. You can use Bordy in the cloud or host it yourself. Do whatever is more convenient for you.
-2. Our license is the {TODO}
+2. Our license is the [Business Source License 1.1](https://mariadb.com/bsl-faq-adopting/)
