@@ -20,14 +20,6 @@ We are just starting to build our community. There are several ways to contribut
 * GitHub issues: for bugs and feature requests.
 * GitHub Pull Requests (PRs): for fixes or new features already discussed
 
-## 👀 Getting started
-
-{TODO}
-
-## Contribute to Bordy
-
-{TODO}
-
 ## Disclaimer
 1. You can use Bordy in the cloud or host it yourself. Do whatever is more convenient for you.
 2. Our license is the [Business Source License 1.1](https://mariadb.com/bsl-faq-adopting/)
